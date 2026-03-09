@@ -1,4 +1,7 @@
-YAML
+---
+layout: default
+title: Spell List
+---
 
 - [Abjuration](#abjuration)  
 - [Banish Undead](#banish-undead)  
