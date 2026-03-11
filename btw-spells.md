@@ -514,6 +514,6 @@ The mage pulls himself up to his full height and shouts ancient words of authori
 
 ## Wrenching Curse
 **Range:** Near  
-**Duration:** 3 rounds
+**Duration:** 3 rounds  
 **Save:** yes  
 This frightful spell causes a target’s insides to twist in intense agony. The mage speaks a word of terrible power which pains the ears of all in range, then points at her target. Unless the target passes a saving throw, he will suffer 1d4 points of damage per round for the duration of the spell. Additionally, the pain is such that the target suffers a -2 to all attack rolls and ability score tests while the spell is in effect. For every full three levels of the caster, the spell lasts an additional 2 rounds, for a total of 5 rounds at level three, 7 at level six, etc.
