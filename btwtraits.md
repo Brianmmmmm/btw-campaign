@@ -9,6 +9,8 @@ title: Trait List
 
 ## **General Traits**
 
+---
+
 ### **Always Prepared**
 
 This character often has unusual but helpful objects at hand. The character may spend a Fortune Point to have any item he might have reasonably procured along the way provided it could fit in his bag.
@@ -65,6 +67,8 @@ When this character helps a friend by spending a Fortune Point, that character g
 
 ## **Alignment Traits**
 
+---
+
 ### **Breaker of Chaos**
 
 Characters must have a Lawful alignment in order to take this Trait. The character’s touch is anathema to supernatural creatures of Chaos, such as demons and certain spirits and undead. If this character somehow has the opportunity to hold such a creature and concentrate for a full minute, it is wholly unmade. Be very careful: demons are unlikely to cooperate.
@@ -80,6 +84,8 @@ Characters must be of Chaotic alignment to take this Trait. This character exert
 ---
 
 ## **Combat Traits**
+
+---
 
 ### **Combat Mastery**
 
@@ -117,6 +123,8 @@ This character is dangerous even without a weapon in her hand. The character’s
 
 ## **Spellcasting Traits**
 
+---
+
 ### **Flexible Ritualist**
 
 This character casts rituals in ways different to other mages. The player may pick two rituals and change which ability score is associated with tests for casting those rituals. The player may choose Intelligence, Wisdom, or Charisma for the casting rolls, and need not necessarily choose the same ability score for each ritual. The player is not required to pick both rituals when this trait is gained, and may instead “hold” one or both of his picks for later rituals.
@@ -144,6 +152,8 @@ This mage may draw on his inner strength to cast a spell as a last ditch effort.
 ---
 
 ## **Supernatural Traits**
+
+---
 
 ### **Fae Blood**
 
