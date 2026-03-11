@@ -57,11 +57,7 @@ This character has an uncanny knack for escaping notice. At the beginning of any
 
 When this character helps a friend by spending a Fortune Point, that character gains an additional \+2 to his roll. If this character helps another without spending a Fortune Point (for example by using a skill) there is no additional benefit.
 
----
-
-## **Alignment Traits**
-
----
+# **Alignment Traits**
 
 ## **Breaker of Chaos**
 
@@ -75,11 +71,7 @@ Characters must be of Neutral alignment to take this Trait. This character stand
 
 Characters must be of Chaotic alignment to take this Trait. This character exerts a powerful aura of change and independence which creatures of Law find unbearable. Town guardsmen are not particularly taken by him, either. Supernatural creatures of Law, such as angels and certain spirits, must pass a saving throw versus spell or leave this character’s presence until the next sunrise. Once a given creature has passed such a saving throw it is never driven off by this character’s presence.
 
----
-
-## **Combat Traits**
-
----
+# **Combat Traits**
 
 ## **Combat Mastery**
 
@@ -113,11 +105,7 @@ This character’s training with a shield allows her to save herself even from a
 
 This character is dangerous even without a weapon in her hand. The character’s unarmed combat attacks do 1d4 damage.
 
----
-
-## **Spellcasting Traits**
-
----
+# **Spellcasting Traits**
 
 ## **Flexible Ritualist**
 
@@ -143,11 +131,7 @@ Through martial training and practice, this mage has learned how best to harness
 
 This mage may draw on his inner strength to cast a spell as a last ditch effort. After the mage has exhausted all of his spells for the day, he may still cast another, but immediately drops to 0 hit points and falls unconscious.
 
----
-
-## **Supernatural Traits**
-
----
+# **Supernatural Traits**
 
 ## **Fae Blood**
 
