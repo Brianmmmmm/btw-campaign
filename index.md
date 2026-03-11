@@ -145,9 +145,9 @@ The entire area in Near range of the caster is blanketed in a shroud of darkness
 ---
 
 ## Elf Shot
-**Range:** Touch
-**Duration:** 5 rounds
-**Save:** special
+**Range:** Touch  
+**Duration:** 5 rounds 
+**Save:** special  
 By humming gently over an arrow or other missile, the caster imbues it with a powerful and poisonous magic. If the arrow strikes a target before the duration of the spell ends, that target must make a saving throw vs. poison or become completely unable to move for 1d10 rounds.
 
 ---
