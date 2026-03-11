@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spell List
+title: Index
 ---
 
 # Beyond the Wall Spells
