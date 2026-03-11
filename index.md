@@ -14,8 +14,10 @@ title: Spell List
 - [Commanding Word](#commanding-word)
 - [Clear Eyes](#clear-eyes)
 - [Conjure Darkness](#conjure-darkness)
+- [Elf Shot](#elf-shot)
 - [Entanglement](#entanglement)
 - [Evade The Dead](#evade-the-dead)
+- [Faerie Cloak](#faerie-cloak)
 - [False Friend](#false-friend)
 - [Feather Fall](#feather-fall)
 - [Flame Charm](#flame-charm)
@@ -27,10 +29,12 @@ title: Spell List
 - [Greater Illusion](#greater-illusion)
 - [Healing Touch](#healing-touch)
 - [The Howling](#the-howling)
+- [Hunger and Thirst](#hunger-and-thirst)
 - [Inspiration](#inspiration)
 - [Magic Missile](#magic-missile)
 - [Masked Image](#masked-image)
 - [Mystical Shield](#mystical-shield)
+- [Night Craft](#night-craft)
 - [Obscurement](#obscurement)
 - [Opening Touch](#opening-touch)
 - [Pass without Trace](#pass-without-trace)
@@ -38,7 +42,9 @@ title: Spell List
 - [Phantom Skill](#phantom-skill)
 - [Reanimation](#reanimation)
 - [Sanctuary of Peace](#sanctuary-of-peace)
+- [Searing Heat](#searing-heat)
 - [Sense Nature](#sense-nature)
+- [Shared Vision](#shared-vision)
 - [Silence](#silence)
 - [Smuggler's Luck](#smugglers-luck)
 - [Spider Climb](#spider-climb)
@@ -47,12 +53,14 @@ title: Spell List
 - [Tinker's Gift](#tinkers-gift)
 - [True Strike](#true-strike)
 - [Veil of Sleep](#veil-of-sleep)
+- [Warping Song](#warping-song)
 - [Web](#web)
 - [Whispering Wind](#whispering-wind)
 - [Wild Call](#wild-call)
 - [Wind Ward](#wind-ward)
 - [Witch Laugh](#witch-laugh)
 - [Word of Courage](#word-of-courage)
+- [Wrenching Curse](#wrenching-curse)
 
 ---
 
@@ -136,6 +144,14 @@ The entire area in Near range of the caster is blanketed in a shroud of darkness
 
 ---
 
+## Elf Shot
+**Range:** Touch
+**Duration:** 5 rounds
+**Save:** special
+By humming gently over an arrow or other missile, the caster imbues it with a powerful and poisonous magic. If the arrow strikes a target before the duration of the spell ends, that target must make a saving throw vs. poison or become completely unable to move for 1d10 rounds.
+
+---
+
 ## Entanglement
 **Range:** Near  
 **Duration:** 10 rounds  
@@ -149,6 +165,14 @@ At the behest of the mage, all the plants within near range twist and reach out 
 **Duration:** 4 rounds/level  
 **Save:** no  
 The target of this spell passes by any undead creatures without their notice, hiding from their dead sight. An undead creature of any kind simply does not notice the character in any way for the duration of this spell. Attacking undead creatures in any way will end the effects of the spell immediately.
+
+---
+
+## Faerie Cloak
+**Range:** Near  
+**Duration:** 1 round/level  
+**Save:** no  
+The caster softly sings an ancient elvish incantation and a silvery mist rises around her and her companions, which dissipates almost immediately. The shapes of the caster and up to six of her companions blend into their surroundings, becoming very difficult to see. For the short duration of the spell, all of those affected gain a +2 bonus to any attempts to sneak or remain hidden.
 
 ---
 
@@ -230,11 +254,21 @@ By speaking ancient words of power, the caster calls forth an image. These ghost
 **Save:** no  
 Perhaps the most sought after of magics, Healing Touch allows a spellcaster to save even those who have been gravely wounded. The mage lays his hands upon a wounded subject and life flows from his touch. The target regains 1d8 hit points as his vitality is restored.
 
+---
+
 ## The Howling
 **Range:** Near  
 **Duration:** 1 round/level  
 **Save:** yes  
 The caster calls out painful words of magic, her voice growing to a howling shout. Soon, many voices rise on the winds, creating a deafening cacophony in the immediate area. Everyone in near range, both friend and foe, must make a saving throw or else cover their ears and do nothing else for the duration of the spell. Even those in range who succeed at their saving throws suffer a -2 penalty to all actions. Creatures who cannot hear, or who are mindless, such as skeletons and zombies, are unaffected.
+
+---
+
+## Hunger and Thirst
+**Range:** Near  
+**Duration:** 1 hour/level  
+**Save:** yes  
+A terrible curse, this spell causes one target in near range to be filled with overwhelming hunger and thirst. Unless he passes a saving throw, the target will eat and drink until sick and often past that point, and find it difficult to do anything else. The victim will not drop his sword in the middle of combat, but any other plans or endeavors become secondary.
 
 ---
 
@@ -267,6 +301,14 @@ The mage makes a mystical sign while passing his hands across his face and sudde
 **Duration:** 5 rounds/level  
 **Save:** no  
 The mage pulls the forces of magic into a physical barrier before him, granting him +6 AC against all attacks originating from in front of him for the duration of the spell.
+
+---
+
+## Night Craft
+**Range:** Self  
+**Duration:** 1 night 
+**Save:** no  
+This caster spits upon his hands, makes a sign, and lifts his tools. For a single night, the caster gains a +5 bonus on any and all rolls related to crafting, cleaning, or doing any sort of mundane, manual labor. After such an intense effort, the mage has a -1 to all rolls until he sleeps.
 
 ---
 
@@ -326,11 +368,27 @@ The mage creates a sanctuary around herself. Anyone wishing to physically harm h
 
 ---
 
+## Searing Heat
+**Range:** Near  
+**Duration:** 7 rounds  
+**Save:** no  
+Searing Heat causes a single metal object in Near range to become extremely hot. Normal creatures immediately drop any such object they are holding, while those wearing targeted metal armor take a single point of damage every round until they remove the heated armor.
+
+---
+
 ## Sense Nature
 **Range:** Near  
 **Duration:** Instant  
 **Save:** yes  
 A wizard is shrewd and wise, and a whispered incantation can bring much knowledge about a person. By means of this simple but powerful spell, the mage automatically determines the alignment of a single target in his immediate presence. Additionally, the caster may sense if the target is in any way supernatural; for instance, the caster would learn if the target were possessed by a demon, or were really a faerie in disguise, or a shapeshifted dragon or wizard. If the target makes a successful saving throw versus spell, the caster learns nothing.
+
+---
+
+## Shared Vision
+**Range:** Touch  
+**Duration:** Concentration
+**Save:** no  
+By a touch and a word the caster ceases to see through her own eyes and instead sees through those of the target. This spell may be cast on any living creature, human or otherwise, and lasts so long as the mage maintains her concentration.
 
 ---
 
@@ -398,6 +456,14 @@ The wizard whispers soothing words of magic, causing targets to drift into a dee
 
 ---
 
+## Warping Song
+**Range:** Near  
+**Duration:** Instant 
+**Save:** no  
+This spell causes a single, non-magical object made of wood within Near range of the caster to warp into a useless or damaged state; a bow becomes completely useless, a boat springs a leak, or a door springs open.
+
+---
+
 ## Web
 **Range:** Near  
 **Duration:** 2 rounds/level  
@@ -443,3 +509,11 @@ Those affected by the witch laughter find everything hilariously funny and laugh
 **Duration:** 3 rounds/level  
 **Save:** no  
 The mage pulls himself up to his full height and shouts ancient words of authority and power, instilling great confidence and courage in all friends within near range. All of the caster’s party members in range will stop fleeing immediately if they are already doing so, and will automatically hold their courage and resist any fear effects for the duration of the spell; if called upon to make a saving throw related to natural or magical fear during this time, they will pass the roll automatically.
+
+---
+
+## Wrenching Curse
+**Range:** Near  
+**Duration:** 3 rounds 
+**Save:** yes  
+This frightful spell causes a target’s insides to twist in intense agony. The mage speaks a word of terrible power which pains the ears of all in range, then points at her target. Unless the target passes a saving throw, he will suffer 1d4 points of damage per round for the duration of the spell. Additionally, the pain is such that the target suffers a -2 to all attack rolls and ability score tests while the spell is in effect. For every full three levels of the caster, the spell lasts an additional 2 rounds, for a total of 5 rounds at level three, 7 at level six, etc.
