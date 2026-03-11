@@ -3,12 +3,6 @@ layout: default
 title: Spell List
 ---
 
-<style>
-h3 {
-  margin-bottom: 0;
-}
-</style>
-
 ## **Beyond the Wall Spells**
 - [Abjuration](#abjuration)
 - [Banish Undead](#banish-undead)
