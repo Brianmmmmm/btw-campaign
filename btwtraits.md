@@ -5,6 +5,8 @@ title: Trait List
 
 # Beyond the Wall Traits
 
+---
+
 ## **General Traits**
 
 ### **Always Prepared**
