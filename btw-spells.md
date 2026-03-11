@@ -3,7 +3,7 @@ layout: default
 title: Spell List
 ---
 
-# Beyond the Wall Spells
+## Beyond the Wall Spells
 - [Abjuration](#abjuration)
 - [Banish Undead](#banish-undead)
 - [Bar the Way](#bar-the-way)
@@ -64,7 +64,7 @@ title: Spell List
 
 ---
 
-## Abjuration
+# Abjuration
 **Range:** Near  
 **Duration:** Instant  
 **Save:** yes  
@@ -72,7 +72,7 @@ The mage makes the sign of banishing, and attempts to send a single disembodied 
 
 ---
 
-## Banish Undead
+# Banish Undead
 **Range:** Near  
 **Duration:** 10 minutes/level  
 **Save:** yes  
@@ -80,7 +80,7 @@ This spell causes mindless fear in all sorts of undead. When the mage casts this
 
 ---
 
-## Bar the Way
+# Bar the Way
 **Range:** Touch  
 **Duration:** 1 minute/level  
 **Save:** no  
@@ -88,7 +88,7 @@ With a touch and a word of power, the mage bars an ordinary door or gate so that
 
 ---
 
-## Blight of Loneliness
+# Blight of Loneliness
 **Range:** Near  
 **Duration:** 1 hour/level  
 **Save:** yes  
@@ -96,7 +96,7 @@ An old witch’s curse, this fearful spell makes the target repulsive and uncout
 
 ---
 
-## Brave the Flames
+# Brave the Flames
 **Range:** Self  
 **Duration:** 2 rounds/level  
 **Save:** no  
@@ -104,7 +104,7 @@ Even ancient dragons have some small cause to fear a master of the magical arts.
 
 ---
 
-## Burning Hands
+# Burning Hands
 **Range:** Near  
 **Duration:** Instant  
 **Save:** yes  
@@ -112,7 +112,7 @@ The caster spreads her hands as her eyes glow with a fiery intensity and flames 
 
 ---
 
-## Call the Swarm
+# Call the Swarm
 **Range:** Near  
 **Duration:** Concentration  
 **Save:** no  
@@ -120,7 +120,7 @@ The caster speaks in a harsh and whispered tone and the land crawls to her call.
 
 ---
 
-## Commanding Word
+# Commanding Word
 **Range:** Near  
 **Duration:** 1 round  
 **Save:** yes  
@@ -128,7 +128,7 @@ With sheer force of will, the mage can force another to obey a single-word comma
 
 ---
 
-## Clear Eyes
+# Clear Eyes
 **Range:** Self  
 **Duration:** 1 hour/level  
 **Save:** no  
@@ -136,7 +136,7 @@ Passing her hand over her eyes while making a sign of power, the caster sees thr
 
 ---
 
-## Conjure Darkness
+# Conjure Darkness
 **Range:** Near  
 **Duration:** 3 rounds/level  
 **Save:** no  
@@ -144,7 +144,7 @@ The entire area in Near range of the caster is blanketed in a shroud of darkness
 
 ---
 
-## Elf Shot
+# Elf Shot
 **Range:** Touch  
 **Duration:** 5 rounds  
 **Save:** special  
@@ -152,7 +152,7 @@ By humming gently over an arrow or other missile, the caster imbues it with a po
 
 ---
 
-## Entanglement
+# Entanglement
 **Range:** Near  
 **Duration:** 10 rounds  
 **Save:** yes  
@@ -160,7 +160,7 @@ At the behest of the mage, all the plants within near range twist and reach out 
 
 ---
 
-## Evade The Dead
+# Evade The Dead
 **Range:** Touch  
 **Duration:** 4 rounds/level  
 **Save:** no  
@@ -168,7 +168,7 @@ The target of this spell passes by any undead creatures without their notice, hi
 
 ---
 
-## Faerie Cloak
+# Faerie Cloak
 **Range:** Near  
 **Duration:** 1 round/level  
 **Save:** no  
@@ -176,7 +176,7 @@ The caster softly sings an ancient elvish incantation and a silvery mist rises a
 
 ---
 
-## False Friend
+# False Friend
 **Range:** Near  
 **Duration:** 1 day/level  
 **Save:** yes  
@@ -184,7 +184,7 @@ Magic is an alluring force. If the target of this spell fails his saving throw, 
 
 ---
 
-## Feather Fall
+# Feather Fall
 **Range:** Touch  
 **Duration:** 1 round/level  
 **Save:** no  
@@ -192,7 +192,7 @@ With a quick wave of the hand and a whispered word, the target falls no faster t
 
 ---
 
-## Flame Charm
+# Flame Charm
 **Range:** Near  
 **Duration:** Concentration  
 **Save:** no  
@@ -200,7 +200,7 @@ Some mages know the tongue of the flames. They can speak soothing words to them,
 
 ---
 
-## Flash of Brilliance
+# Flash of Brilliance
 **Range:** Near  
 **Duration:** Instant  
 **Save:** yes  
@@ -208,7 +208,7 @@ The mage makes the ancient sign of light with the fingers of both hands, then cl
 
 ---
 
-## Forgetful Mind
+# Forgetful Mind
 **Range:** Near  
 **Duration:** 1 hour/level  
 **Save:** yes  
@@ -216,7 +216,7 @@ This wicked spell makes the target forget almost everything of importance for th
 
 ---
 
-## Friend's Call
+# Friend's Call
 **Range:** Far  
 **Duration:** 1 day/level  
 **Save:** no  
@@ -224,7 +224,7 @@ When in great danger, a mage may call to his friends and give them magical knowl
 
 ---
 
-## From the Brink
+# From the Brink
 **Range:** Touch  
 **Duration:** Instant  
 **Save:** no  
@@ -232,7 +232,7 @@ The mage whispers soothing words of healing to a dying target who is at 0 hit po
 
 ---
 
-## Great Endurance
+# Great Endurance
 **Range:** Near  
 **Duration:** 1 hour/level  
 **Save:** no  
@@ -240,7 +240,7 @@ For a short time, the caster and his companions are filled with an unusual vigor
 
 ---
 
-## Greater Illusion
+# Greater Illusion
 **Range:** Near  
 **Duration:** Concentration  
 **Save:** yes  
@@ -248,7 +248,7 @@ By speaking ancient words of power, the caster calls forth an image. These ghost
 
 ---
 
-## Healing Touch
+# Healing Touch
 **Range:** Touch  
 **Duration:** Instant  
 **Save:** no  
@@ -256,7 +256,7 @@ Perhaps the most sought after of magics, Healing Touch allows a spellcaster to s
 
 ---
 
-## The Howling
+# The Howling
 **Range:** Near  
 **Duration:** 1 round/level  
 **Save:** yes  
@@ -264,7 +264,7 @@ The caster calls out painful words of magic, her voice growing to a howling shou
 
 ---
 
-## Hunger and Thirst
+# Hunger and Thirst
 **Range:** Near  
 **Duration:** 1 hour/level  
 **Save:** yes  
@@ -272,7 +272,7 @@ A terrible curse, this spell causes one target in near range to be filled with o
 
 ---
 
-## Inspiration
+# Inspiration
 **Range:** Near  
 **Duration:** 3 rounds/level  
 **Save:** no  
@@ -280,7 +280,7 @@ The caster calls mystical power to aid himself and his allies, increasing their 
 
 ---
 
-## Magic Missile
+# Magic Missile
 **Range:** Near  
 **Duration:** Instant  
 **Save:** no  
@@ -288,7 +288,7 @@ When a mage casts this quick and deadly spell, a bolt of magical energy unerring
 
 ---
 
-## Masked Image
+# Masked Image
 **Range:** Self  
 **Duration:** 10 rounds/level  
 **Save:** no  
@@ -296,7 +296,7 @@ The mage makes a mystical sign while passing his hands across his face and sudde
 
 ---
 
-## Mystical Shield
+# Mystical Shield
 **Range:** Self  
 **Duration:** 5 rounds/level  
 **Save:** no  
@@ -304,7 +304,7 @@ The mage pulls the forces of magic into a physical barrier before him, granting 
 
 ---
 
-## Night Craft
+# Night Craft
 **Range:** Self  
 **Duration:** 1 night 
 **Save:** no  
@@ -312,7 +312,7 @@ This caster spits upon his hands, makes a sign, and lifts his tools. For a singl
 
 ---
 
-## Obscurement
+# Obscurement
 **Range:** Self  
 **Duration:** 4 rounds/level  
 **Save:** no  
@@ -320,7 +320,7 @@ With a simple gesture, the mage becomes hazy and forgettable. She is difficult t
 
 ---
 
-## Opening Touch
+# Opening Touch
 **Range:** Touch  
 **Duration:** Instant  
 **Save:** no  
@@ -328,7 +328,7 @@ With an arcane sign, the caster forces open any ordinary door or lock. This spel
 
 ---
 
-## Pass without Trace
+# Pass without Trace
 **Range:** Touch  
 **Duration:** 1 minute/level  
 **Save:** no  
@@ -336,7 +336,7 @@ The mage’s touch carries the blessing of the earth, and the target can then pa
 
 ---
 
-## Petrifying Gaze
+# Petrifying Gaze
 **Range:** Near  
 **Duration:** 1 round/level  
 **Save:** yes  
@@ -344,7 +344,7 @@ The spellcaster freezes his target with but a look. While the spell lasts, a vic
 
 ---
 
-## Phantom Skill
+# Phantom Skill
 **Range:** Near  
 **Duration:** 1 day  
 **Save:** no  
@@ -352,7 +352,7 @@ With a gesture and a blessing, the mage blesses one person in his immediate pres
 
 ---
 
-## Reanimation
+# Reanimation
 **Range:** Near  
 **Duration:** 3 hours/level  
 **Save:** no  
@@ -360,7 +360,7 @@ This dark magic causes the dead to walk. The mage says the words of power and ca
 
 ---
 
-## Sanctuary of Peace
+# Sanctuary of Peace
 **Range:** Self  
 **Duration:** 3 rounds/level  
 **Save:** yes  
@@ -368,7 +368,7 @@ The mage creates a sanctuary around herself. Anyone wishing to physically harm h
 
 ---
 
-## Searing Heat
+# Searing Heat
 **Range:** Near  
 **Duration:** 7 rounds  
 **Save:** no  
@@ -376,7 +376,7 @@ Searing Heat causes a single metal object in Near range to become extremely hot.
 
 ---
 
-## Sense Nature
+# Sense Nature
 **Range:** Near  
 **Duration:** Instant  
 **Save:** yes  
@@ -384,7 +384,7 @@ A wizard is shrewd and wise, and a whispered incantation can bring much knowledg
 
 ---
 
-## Shared Vision
+# Shared Vision
 **Range:** Touch  
 **Duration:** Concentration
 **Save:** no  
@@ -392,7 +392,7 @@ By a touch and a word the caster ceases to see through her own eyes and instead 
 
 ---
 
-## Silence
+# Silence
 **Range:** Near  
 **Duration:** 2 rounds/level  
 **Save:** no  
@@ -400,7 +400,7 @@ The mage raises his hand in an arcane gesture and a blanket of complete silence 
 
 ---
 
-## Smuggler’s Luck
+# Smuggler’s Luck
 **Range:** Touch  
 **Duration:** 1 hour  
 **Save:** no  
@@ -408,7 +408,7 @@ This spell makes any one item in the mage’s possession completely undetectable
 
 ---
 
-## Spider Climb
+# Spider Climb
 **Range:** Touch  
 **Duration:** 3 rounds/level  
 **Save:** no  
@@ -416,7 +416,7 @@ With a gentle touch and a secret sign, the mage gives her target the ability to 
 
 ---
 
-## Swift Step
+# Swift Step
 **Range:** Self  
 **Duration:** 1 round/level  
 **Save:** no  
@@ -424,7 +424,7 @@ After speaking an ancient word of magic, the caster moves with unnatural speed a
 
 ---
 
-## Terrifying Presence
+# Terrifying Presence
 **Range:** Near  
 **Duration:** 2 rounds/level  
 **Save:** yes  
@@ -432,7 +432,7 @@ The caster of this spell moves and speaks with terrible authority and causes his
 
 ---
 
-## Tinker’s Gift
+# Tinker’s Gift
 **Range:** Touch  
 **Duration:** Permanent  
 **Save:** no  
@@ -440,7 +440,7 @@ This spell makes whole again that which was broken. It can mend broken chains, r
 
 ---
 
-## True Strike
+# True Strike
 **Range:** Self  
 **Duration:** 1 round  
 **Save:** no  
@@ -448,7 +448,7 @@ The mage lays a fell hand upon her blade, granting herself precision and power. 
 
 ---
 
-## Veil of Sleep
+# Veil of Sleep
 **Range:** Near  
 **Duration:** 5 rounds/level  
 **Save:** yes  
@@ -456,7 +456,7 @@ The wizard whispers soothing words of magic, causing targets to drift into a dee
 
 ---
 
-## Warping Song
+# Warping Song
 **Range:** Near  
 **Duration:** Instant 
 **Save:** no  
@@ -464,7 +464,7 @@ This spell causes a single, non-magical object made of wood within Near range of
 
 ---
 
-## Web
+# Web
 **Range:** Near  
 **Duration:** 2 rounds/level  
 **Save:** yes  
@@ -472,7 +472,7 @@ With an elaborate gesture, the mage fills an area roughly 10 feet in diameter wi
 
 ---
 
-## Whispering Wind
+# Whispering Wind
 **Range:** Far  
 **Duration:** Instant  
 **Save:** no  
@@ -480,7 +480,7 @@ The mage speaks to the wind in its own tongue and gives it a message, which it t
 
 ---
 
-## Wild Call
+# Wild Call
 **Range:** Far  
 **Duration:** Instant  
 **Save:** no  
@@ -488,7 +488,7 @@ Calling the name of any one type of animal native to the local region, the mage 
 
 ---
 
-## Wind Ward
+# Wind Ward
 **Range:** Near  
 **Duration:** 1 round/level  
 **Save:** no  
@@ -496,7 +496,7 @@ The mage utters the name of the wind, and it comes to her call, shielding her an
 
 ---
 
-## Witch Laugh
+# Witch Laugh
 **Range:** Near  
 **Duration:** 1 round/level  
 **Save:** yes  
@@ -504,7 +504,7 @@ Those affected by the witch laughter find everything hilariously funny and laugh
 
 ---
 
-## Word of Courage
+# Word of Courage
 **Range:** Near  
 **Duration:** 3 rounds/level  
 **Save:** no  
@@ -512,7 +512,7 @@ The mage pulls himself up to his full height and shouts ancient words of authori
 
 ---
 
-## Wrenching Curse
+# Wrenching Curse
 **Range:** Near  
 **Duration:** 3 rounds  
 **Save:** yes  
