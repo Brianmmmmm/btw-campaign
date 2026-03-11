@@ -3,7 +3,7 @@ layout: default
 title: Spell List
 ---
 
-# All Beyond the Wall Spells
+# Beyond the Wall Spells
 - [Abjuration](#abjuration)
 - [Banish Undead](#banish-undead)
 - [Bar the Way](#bar-the-way)
