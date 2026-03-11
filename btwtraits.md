@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trait List
+permalink: /traits/
 ---
 
 # **General Traits**
