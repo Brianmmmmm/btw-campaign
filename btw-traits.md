@@ -6,9 +6,8 @@ title: Trait List
 ## **General Traits**
 
 ### **Always Prepared**
-
 This character often has unusual but helpful objects at hand. The character may spend a Fortune Point to have any item he might have reasonably procured along the way provided it could fit in his bag.
-ljkjlkj
+
 ### **Fast Healer**
 
 Such a great hero cannot be held back for long. This character recovers two hit points when receiving a full night’s rest instead of the usual 1 hit point.
