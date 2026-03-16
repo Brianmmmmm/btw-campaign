@@ -6,7 +6,6 @@ title: Trait List
 ## **General Traits**
 
 ### **Always Prepared**
-
 This character often has unusual but helpful objects at hand. The character may spend a Fortune Point to have any item he might have reasonably procured along the way provided it could fit in his bag.
 
 ### **Fast Healer**
